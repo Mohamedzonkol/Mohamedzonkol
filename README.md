@@ -42,11 +42,11 @@ Handled back-end and front-end tasks, including CRUD operations and more, for va
 
 🎯 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&show_icons=true&theme=dark"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSamy511&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzonkol&theme=dark"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&layout=compact&theme=dark"/>
 </p>
