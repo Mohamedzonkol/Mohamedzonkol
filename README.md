@@ -4,38 +4,49 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-elsayed-265328249"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/mo.zonkol?mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
-    <a href="mo.zonkol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white""/></a>
+    <a href="mo.zonkol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>    
-## ✨&nbsp; About Me
-- Undergraduate Computer and Systems Engineer , Interested in electronics and technology in general, especially Embedded Systems.
-
-
+✨  About Me
+Undergraduate Computer and Systems Engineer, interested in software and technology in general, especially Backend Development. Experienced in developing web applications and services using various technologies.
 ## 💻🛠 &nbsp; Languages & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+### Programming Languages:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+### Technologies & Frameworks:
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dot-net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dot-net&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![.NET API](https://img.shields.io/badge/.NET%20API-512BD4?style=flat&logo=dot-net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat&logo=dot-net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dot-net&logoColor=white)
+
+### Development Tools:
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-1039f2.svg?style=flat&logo=intellij-idea&logoColor=white)
 
-### 🎯 GitHub Stats <p align="center"> 
+Professional Experience
+Exceed IT Services
+Dotnet Developer | Feb 2022 – June 2023
+Developed and maintained web applications using ASP.NET Core and Entity Framework, collaborating with teams to deploy new features and optimize performance.
+
+Freelance Web Developer
+January 2022 – May 2023
+Handled back-end and front-end tasks, including CRUD operations and more, for various web development projects using technologies like Python, C#, SQL Server, MySQL, and Docker.
+
+🎯 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=dark"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=dark"/>
+</p>
 <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user={MahmoudSamy511}&theme=dark"></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSamy511&theme=dark"/>
+</p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact&theme=dark"></a>
-<!--![GitHub stars](https://img.shields.io/github/stars/MahmoudSamy511/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)--> 
-<!--![GitHub Watchers](https://badgen.net/github/watchers/MahmoudSamy511/Strapdown.js/)-->
-
-              
-
-
-
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact&theme=dark"/>
+</p>
