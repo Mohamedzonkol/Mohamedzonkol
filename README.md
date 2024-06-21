@@ -11,6 +11,7 @@
 </div>    
 ✨  About Me
 Undergraduate Computer and Systems Engineer, interested in software and technology in general, especially Backend Development. Experienced in developing web applications and services using various technologies.
+  
 ## 💻🛠 &nbsp; Languages & Tools
 
 ### Programming Languages:
