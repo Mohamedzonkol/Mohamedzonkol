@@ -21,17 +21,34 @@ Undergraduate Computer and Systems Engineer, interested in software and technolo
 
 ### Technologies & Frameworks:
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dot-net&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![.NET API](https://img.shields.io/badge/.NET%20API-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dot-net&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+
+#### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 
 ### Development Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 Professional Experience
 Exceed IT Services
 Dotnet Developer | Feb 2022 – June 2023
@@ -43,11 +60,17 @@ Handled back-end and front-end tasks, including CRUD operations and more, for va
 
 🎯 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&show_icons=true&theme=dark"/>
+  <p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+
+</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&show_icons=true&theme=dracula"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzonkol&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzonkol&theme=dracula"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&layout=compact&theme=dracula"/>
 </p>
