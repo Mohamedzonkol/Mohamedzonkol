@@ -85,4 +85,3 @@ Handled back-end and front-end tasks, including CRUD operations and more, for va
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&layout=compact&theme=dracula"/>
 </p>
-<img src="https://raw.githubusercontent.com/Mohamedzonkol/Mohamedzonkol/output/snake.svg" alt="Snake animation" />
