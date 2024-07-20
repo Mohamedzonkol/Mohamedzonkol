@@ -49,6 +49,7 @@ Undergraduate Computer and Systems Engineer, interested in software and technolo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
 Professional Experience
 Exceed IT Services
 Dotnet Developer | Feb 2022 – June 2023
@@ -63,7 +64,7 @@ Handled back-end and front-end tasks, including CRUD operations and more, for va
   <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&count_private=true&theme=dracula">
 
 </p>
     <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&show_icons=true&theme=dracula"/>
