@@ -70,14 +70,7 @@ Undergraduate Computer and Systems Engineer, interested in software and technolo
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-Professional Experience
-Exceed IT Services
-Dotnet Developer | Feb 2022 – June 2023
-Developed and maintained web applications using ASP.NET Core and Entity Framework, collaborating with teams to deploy new features and optimize performance.
 
-Freelance Web Developer
-January 2022 – May 2023
-Handled back-end and front-end tasks, including CRUD operations and more, for various web development projects using technologies like Python, C#, SQL Server, MySQL, and Docker.
 
 🎯 GitHub Stats
 <p align="center">
