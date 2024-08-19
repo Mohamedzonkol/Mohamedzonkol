@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1 align="center">Hi, I'm Mohmamed Elsayed 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Elsayed 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-elsayed-265328249"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/mo.zonkol?mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
