@@ -78,10 +78,14 @@ Undergraduate Computer and Systems Engineer, interested in software and technolo
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&show_icons=true&theme=dracula"/>
 </p>
+
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamedzonkol&theme=dark)](https://git.io/streak-stats)
-  
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Mohamedzonkol&theme=dark" alt="GitHub Streak" />
+    </a>
 </p>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&layout=compact&theme=dracula"/>
 </p>
+
