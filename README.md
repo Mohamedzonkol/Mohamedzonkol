@@ -80,9 +80,7 @@ Undergraduate Computer and Systems Engineer, interested in software and technolo
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Mohamedzonkol&theme=dark" alt="GitHub Streak" />
-    </a>
+    <img src="https://streak-stats.demolab.com/?user=Mohamedzonkol&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
