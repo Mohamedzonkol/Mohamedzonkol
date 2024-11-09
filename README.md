@@ -79,7 +79,8 @@ Undergraduate Computer and Systems Engineer, interested in software and technolo
     <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzonkol&show_icons=true&theme=dracula"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzonkol&theme=dracula"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamedzonkol&theme=dark)](https://git.io/streak-stats)
+  
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzonkol&layout=compact&theme=dracula"/>
